@@ -1,0 +1,12 @@
+{
+  "development": {
+    "apiUrl": "https://zeligblog.herokuapp.com",
+    "contentApiKey": "78fe4c3d077df88e608f2576cc",
+    "version": "v3"
+  },
+  "production": {
+    "apiUrl": "https://zeligblog.herokuapp.com",
+    "contentApiKey": "78fe4c3d077df88e608f2576cc",
+    "version": "v3"
+  }
+}
